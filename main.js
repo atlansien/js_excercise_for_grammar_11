@@ -9,7 +9,7 @@
 
 // ここでcatオブジェクトを作る
 
-let cat = {
+const cat = {
   name: "メレ",
   age: 8,
   sex: "オス"
